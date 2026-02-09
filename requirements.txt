@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+ydata-profiling
+ollama
+setuptools
