@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy==1.26.4
-ydata-profiling
 setuptools
+ydata-profiling==4.6.4
 google-generativeai
